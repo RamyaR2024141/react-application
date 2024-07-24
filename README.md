@@ -48,3 +48,25 @@ Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](./C
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+# Namaste React
+
+# Parcel
+
+- Dev Build
+- Local Server
+- HMR - Hot Module Replacement - (Refresh the browser automatically as soon as code got saved)
+- File Watching Algoritham - Written in C++ (Parcel uses File Watching Algoritham)
+- Caching - Faster Builds
+- Image Optimization
+- Minification
+- Bundling
+- Compress
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - Support Older Browsers
+- Diagnostics
+- Error Handling
+- HTTPs
+- Tree Shaking - Remove unused code
+- Different dev and prod bundles
